@@ -1,5 +1,6 @@
-package org.example.test.config;
+package org.example.test;
 
+import org.example.test.config.RedissonConfig;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.TestInstance;
